@@ -1,0 +1,8 @@
+name: Lifeanarchy
+version: '1.0-SNAPSHOT'
+main: org.lifeanarchy.LightLag
+api-version: 1.15
+load: STARTUP
+loadbefore: [ start.sh ]
+authors: [ House_1, 254nm ]
+description: Just a patch for lightlag
